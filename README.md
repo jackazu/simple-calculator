@@ -1,4 +1,6 @@
 # simple_calculator
+[![Codemagic build status](https://api.codemagic.io/apps/60910bc8eee12e48db15a920/60910bc8eee12e48db15a91f/status_badge.svg)](https://codemagic.io/apps/60910bc8eee12e48db15a920/60910bc8eee12e48db15a91f/latest_build)
+
 
 This is simple calculator.
 
